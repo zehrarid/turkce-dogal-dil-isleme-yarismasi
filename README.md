@@ -17,3 +17,6 @@ Grup Üyeleri: Zehra Rıdvanoğulları
 7. Açılacak arayüz içerisinde belirtilen yere pipe (|) ile ayrılmış text dosyasını ekleyiniz, dosya id ve text adında 2 sütuna sahip bir dosya olmalı.
 8. Dosyanız sisteme yüklendikten sonra Submit butonuna basınız.
 9. Output (çıktı) dosyanız klasörünüze otomatik inmiş olcak işlem bittiğinde.
+
+EK VERİ
+https://drive.google.com/file/d/1wV7rUYHR1RpcW9WPTgk9TXNBq0R9MPsf/view?usp=sharing

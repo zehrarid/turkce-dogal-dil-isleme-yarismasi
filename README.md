@@ -20,3 +20,6 @@ Grup Üyeleri: Zehra Rıdvanoğulları
 
 # EK VERİ
 https://drive.google.com/file/d/1qML_kCmBFuvJhsK4Q51iM1C8YjRuZipm/view?usp=sharing
+
+# Kullanılan BERT modeli
+dbmdz/bert-base-turkish-cased

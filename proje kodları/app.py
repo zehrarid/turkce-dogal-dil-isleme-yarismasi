@@ -21,8 +21,8 @@ class BertClassifier(nn.Module):
         final_layer = self.relu(linear_output)
         return final_layer
 
-model_offensive = torch.load('./models_notebooks/transformers/models/bert_model_is_offensive.pt')
-model_target = torch.load('./models_notebooks/transformers/models/bert_model_target.pt')
+model_offensive = torch.load('./bert_model_is_offensive.pt')
+model_target = torch.load('./bert_model_target.pt')
 tokenizer = BertTokenizer.from_pretrained("dbmdz/bert-base-turkish-cased")
 mapping = {0: 'INSULT', 1: 'RACIST', 2: 'SEXIST', 3: 'PROFANITY'}
 
@@ -63,8 +63,7 @@ def predict(df):
 
     for i in range(len(df)):
         df['offansive'][i] = predict_single(model_offensive, df['text'][i])
-        # if(df['offensive'][i] == 0):
-        #     df['target'][i] = 'NOT_OFFENSIVE'
+        
         if(df['offansive'][i] == 1):
             df['target'][i] = mapping[predict_single(model_target, df['text'][i])]
     return df

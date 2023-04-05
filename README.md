@@ -16,7 +16,7 @@ Grup Üyeleri: Zehra Rıdvanoğulları
 6. Karşınıza Gradio arayüzü çıkacak, username (kullanıcı adı) ve password (şifre) alanlarını doğru ve eksiksiz doldurup sisteme giriş yapınız.
 7. Açılacak arayüz içerisinde belirtilen yere pipe (|) ile ayrılmış text dosyasını ekleyiniz, dosya id ve text adında 2 sütuna sahip bir dosya olmalı.
 8. Dosyanız sisteme yüklendikten sonra Submit butonuna basınız.
-9. Output (çıktı) dosyanız klasörünüze otomatik inmiş olcak işlem bittiğinde.
+9. Output (çıktı) dosyanız klasörünüze otomatik inmiş olacak işlem bittiğinde, dilerseniz download butonuna tıklayıp çıktı dosyasını elle de indirebilirsiniz.
 
 # EK VERİ
 https://drive.google.com/file/d/1qML_kCmBFuvJhsK4Q51iM1C8YjRuZipm/view?usp=sharing

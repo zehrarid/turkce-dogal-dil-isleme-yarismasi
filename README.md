@@ -19,4 +19,4 @@ Grup Üyeleri: Zehra Rıdvanoğulları
 9. Output (çıktı) dosyanız klasörünüze otomatik inmiş olcak işlem bittiğinde.
 
 EK VERİ
-https://drive.google.com/file/d/1wV7rUYHR1RpcW9WPTgk9TXNBq0R9MPsf/view?usp=sharing
+https://drive.google.com/file/d/1qML_kCmBFuvJhsK4Q51iM1C8YjRuZipm/view?usp=sharing
